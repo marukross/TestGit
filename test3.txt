@@ -1,2 +1,7 @@
 Guardar en TestRama
+
 texto en conflicto 2
+
+texto en conflicto 1
+
+Se guardan ambas lineas durante el merge
